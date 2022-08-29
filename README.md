@@ -6,7 +6,7 @@ Installing Openvas 22.04 using Debian 11.x.
 
 The shell script was created and tested.
 
-##!! IMPORTANT !!
+## IMPORTANT 
 At the end of the script we have the following line
 
     sudo -u gvm gvmd --create-user admin
